@@ -1,2 +1,2 @@
-# my-programming-file
- my first repository file
+# My-programming-file
+ My first repository file
